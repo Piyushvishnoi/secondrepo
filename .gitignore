@@ -1,0 +1,3 @@
+*.txt
+#overriding for hekko.txt
+!hekko.txt
